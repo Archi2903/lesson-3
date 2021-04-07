@@ -1,0 +1,51 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("https://get.pxhere.com/photo/nature-rock-mountain-snow-cloud-black-and-white-photography-mountain-range-darkness-monochrome-summit-alps-landform-monochrome-photography-geographical-feature-mountainous-landforms-geological-phenomenon-75810.jpg");
+    background-clip: border-box;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    width: 300px;
+}
+
+.button {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    width: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif gray;
+    position: relative;
+    z-index: 2;
+
+}
+
+strong {
+    color: #1c2424;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input {
+    margin-top: 10px;
+}
+
+.calculate {
+    background-image: url("https://fondowallpaper.files.wordpress.com/2013/08/274.jpg?w=640");
+    background-size: auto;
+    text-align: center;
+    outline: 2px solid black;
+    position: absolute;
+}
+
